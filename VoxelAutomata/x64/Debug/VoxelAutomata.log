@@ -1,0 +1,13 @@
+﻿  Source.cpp
+E:\Windows\Documents\GitHub\Voxel-Automata\include\shader_s\shader_s.h(120,40): warning C4101: 'e': unreferenced local variable
+E:\Windows\Documents\GitHub\Voxel-Automata\include\shader_s\shader_s.h(187,40): warning C4101: 'e': unreferenced local variable
+E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\Source.cpp(134,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\Source.cpp(150,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\Source.cpp(164,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\Source.cpp(251,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\Source.cpp(252,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\Source.cpp(256,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\Source.cpp(257,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\Source.cpp(259,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\Source.cpp(260,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  VoxelAutomata.vcxproj -> E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\x64\Debug\VoxelAutomata.exe
