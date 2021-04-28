@@ -45,5 +45,4 @@ void main() {
 	sum=round(sum);
 	result[index].state=float( sum==3 || (sum==2&&cell==1) );
 	//result[index].state=verts[index].state;
-
 }

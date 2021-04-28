@@ -34,7 +34,7 @@ float deltaTime = 0.0f;	// time between current frame and last frame
 float lastFrame = 0.0f;
 
 const int size = 64;
-glm::vec3 lightPos = glm::vec3(32,32,32);
+glm::vec3 lightPos = glm::vec3(32,64,32);
 
 int main()
 {

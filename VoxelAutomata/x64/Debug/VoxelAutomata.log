@@ -24,5 +24,5 @@ glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with
 glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\x64\Debug\glfw.pdb'; linking object as if no debug info
 glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\x64\Debug\glfw.pdb'; linking object as if no debug info
 glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\x64\Debug\glfw.pdb'; linking object as if no debug info
-glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
   VoxelAutomata.vcxproj -> E:\Windows\Documents\GitHub\Voxel-Automata\VoxelAutomata\x64\Debug\VoxelAutomata.exe

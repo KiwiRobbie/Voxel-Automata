@@ -48,6 +48,15 @@ mat3(0, 0, 1,
 
 };
 
+struct VtxData {
+   vec3  pos;
+   float state;   
+};   
+
+layout (std140, binding = 1) buffer VertexBuffer {
+   VtxData verts[];
+};
+
 
 void main(){    
     if(State[0]>0.0){
@@ -63,7 +72,7 @@ void main(){
 
                 light=1.0f;
                 
-                EmitVertex();
+                EmitVertex(); 
             }
             EndPrimitive();
         }
